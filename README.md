@@ -3,7 +3,7 @@
 
 Data Analysis of OTT Platform such as NETFLIX , Amazon Prime , Hulu , Disney+  from the dataset "moviestream".
 
-Dataset has been downloaded from Kaggle and it can be found here :https://www.kaggle.com/datasets/ruchi798/movies-on-netflix-prime-video-hulu-and-disney
+Dataset has been downloaded from Kaggle and it can be found here: https://www.kaggle.com/datasets/ruchi798/movies-on-netflix-prime-video-hulu-and-disney
 
 
 
